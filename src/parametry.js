@@ -299,48 +299,69 @@ var bramy = {
       wentylacyjny: false,
       kolory: [
         {
+          id: 30,
+          text: 'Orzech',
+          rodzaj: 1 // okleina
+        },
+        {
+          id: 48,
+          text: 'Złoty dąb',
+          rodzaj: 1 // okleina
+        },
+        {
           id: 101,
-          text: 'Srebrny'
+          text: 'Srebrny',
+          rodzaj: 2 // lakier
         },
         {
           id: 102,
-          text: 'Biały'
+          text: 'Biały',
+          rodzaj: 2 // lakier
         },
         {
           id: 103,
-          text: 'Szary'
+          text: 'Szary',
+          rodzaj: 2 // lakier
         },
         {
           id: 105,
-          text: 'Beż'
+          text: 'Beż',
+          rodzaj: 2 // lakier
         },
         {
           id: 107,
-          text: 'Jasny szary'
+          text: 'Jasny szary',
+          rodzaj: 2 // lakier
         },
         {
           id: 108,
-          text: 'Ciemny brąz'
+          text: 'Ciemny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 109,
-          text: 'Jasny brąz'
+          text: 'Jasny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 116,
-          text: 'Kość słoniowa'
+          text: 'Kość słoniowa',
+          rodzaj: 2 // lakier
         },
         {
           id: 123,
-          text: 'Antracyt'
+          text: 'Antracyt',
+          rodzaj: 2 // lakier
         },
         {
           id: 126,
-          text: 'Stalowa oliwka'
+          text: 'Stalowa oliwka',
+          rodzaj: 2 // lakier
         },
         {
           id: 130,
-          text: 'Orzech'
+          text: 'Orzech',
+          rodzaj: 2 // lakier
         }
       ]
     },
@@ -366,48 +387,69 @@ var bramy = {
       wentylacyjny: false,
       kolory: [
         {
+          id: 30,
+          text: 'Orzech',
+          rodzaj: 1 // okleina
+        },
+        {
+          id: 48,
+          text: 'Złoty dąb',
+          rodzaj: 1 // okleina
+        },
+        {
           id: 101,
-          text: 'Srebrny'
+          text: 'Srebrny',
+          rodzaj: 2 // lakier
         },
         {
           id: 102,
-          text: 'Biały'
+          text: 'Biały',
+          rodzaj: 2 // lakier
         },
         {
           id: 103,
-          text: 'Szary'
+          text: 'Szary',
+          rodzaj: 2 // lakier
         },
         {
           id: 105,
-          text: 'Beż'
+          text: 'Beż',
+          rodzaj: 2 // lakier
         },
         {
           id: 107,
-          text: 'Jasny szary'
+          text: 'Jasny szary',
+          rodzaj: 2 // lakier
         },
         {
           id: 108,
-          text: 'Ciemny brąz'
+          text: 'Ciemny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 109,
-          text: 'Jasny brąz'
+          text: 'Jasny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 116,
-          text: 'Kość słoniowa'
+          text: 'Kość słoniowa',
+          rodzaj: 2 // lakier
         },
         {
           id: 123,
-          text: 'Antracyt'
+          text: 'Antracyt',
+          rodzaj: 2 // lakier
         },
         {
           id: 126,
-          text: 'Stalowa oliwka'
+          text: 'Stalowa oliwka',
+          rodzaj: 2 // lakier
         },
         {
           id: 130,
-          text: 'Orzech'
+          text: 'Orzech',
+          rodzaj: 2 // lakier
         }
       ]
     },
@@ -429,36 +471,54 @@ var bramy = {
       wentylacyjny: true,
       kolory: [
         {
+          id: 30,
+          text: 'Orzech',
+          rodzaj: 1 // okleina
+        },
+        {
+          id: 48,
+          text: 'Złoty dąb',
+          rodzaj: 1 // okleina
+        },
+        {
           id: 101,
-          text: 'Srebrny'
+          text: 'Srebrny',
+          rodzaj: 2 // lakier
         },
         {
           id: 102,
-          text: 'Biały'
+          text: 'Biały',
+          rodzaj: 2 // lakier
         },
         {
           id: 103,
-          text: 'Szary'
+          text: 'Szary',
+          rodzaj: 2 // lakier
         },
         {
           id: 105,
-          text: 'Beż'
+          text: 'Beż',
+          rodzaj: 2 // lakier
         },
         {
           id: 108,
-          text: 'Ciemny brąz'
+          text: 'Ciemny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 109,
-          text: 'Jasny brąz'
+          text: 'Jasny brąz',
+          rodzaj: 2 // lakier
         },
         {
           id: 123,
-          text: 'Antracyt'
+          text: 'Antracyt',
+          rodzaj: 2 // lakier
         },
         {
           id: 130,
-          text: 'Orzech'
+          text: 'Orzech',
+          rodzaj: 2 // lakier
         }
       ]
     }
